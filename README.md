@@ -1,3 +1,3 @@
 # My React App
 
-Link: [click to visit](https://reactshualeduri.netlify.app/).
+Link: [click to visit](https://reactshualeduriapp.netlify.app).
